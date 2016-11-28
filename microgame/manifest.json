@@ -1,0 +1,18 @@
+{
+  "appID": "a6f01faa3fdd467199eab1907348d945",
+  "dependencies": {
+    "devkit-authmachine": "https://github.com/aogilvie/devkit-authmachine#master",
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.5.3"
+  },
+  "shortName": "microgame",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "microgame"
+}
